@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Patidar</h1>
+<img src="https://www.roberthalf.com/sites/default/files/2018-04/front-end-web-developer-salary-tcg-2018.jpg" alt="sourabh7909"/>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh7909&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh7909" /> </p>
