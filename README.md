@@ -1,4 +1,4 @@
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020-768x371.png" height="250px"/>
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020-768x371.png" height="250px" w="100%"/>
 <h1 align="center">Hi 👋, I'm Sourabh Patidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabh7909" alt="sourabh7909" /></a> </p>
