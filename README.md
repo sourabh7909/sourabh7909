@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sourabh Patidar</h1>
-<img src="https://www.roberthalf.com/sites/default/files/2018-04/front-end-web-developer-salary-tcg-2018.jpg" alt="sourabh7909"/>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh7909&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh7909" /> </p>
-
+<h1 align="center">Hi 👋, I'm Sourabh Patidar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabh7909" alt="sourabh7909" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
