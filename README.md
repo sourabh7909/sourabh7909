@@ -10,7 +10,7 @@
 - 📫 How to reach me **patidarsourabh574@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/19KTxx4iOLBOozJerHMoTAHFldPlETYpd/view?usp=share_link">Resume</a>
-- 💬 Ask me anything about Java Backend Development
+- 💬 👯 I’m looking to collaborate on Frontend Projects : React, Redux, React-Redux, CRUD, axios  and  HTML, CSS & JavaScript Projects
 
 <a href="https://sourabh7909.github.io/">Portfolio</a>
 <h3 align="left">Connect with me:</h3>
